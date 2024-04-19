@@ -18,8 +18,8 @@ Bienvenidos al repositorio de la **Movie Search App**, una aplicación para busc
 
 > Aquí puedes agregar algunas capturas de pantalla de tu aplicación.
 
-![Captura 1](link-a-la-imagen)
-![Captura 2](link-a-la-imagen)
+![Captura 1](https://github.com/DivorcedLance/movie-search-app/assets/104219610/2e17a791-43a6-4051-8dea-7510b400e3a5)
+![Captura 2](https://github.com/DivorcedLance/movie-search-app/assets/104219610/c3fd8563-9cdd-42a8-9220-94ab4db2661b)
 
 ## 🌐 Hosting
 
