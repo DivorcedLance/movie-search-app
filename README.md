@@ -23,4 +23,4 @@ Bienvenidos al repositorio de la **Movie Search App**, una aplicación para busc
 
 ## 🌐 Hosting
 
-Esta aplicación está alojada en [este link](), donde puedes probarla directamente en tu navegador sin necesidad de instalación.
+Esta aplicación está alojada en [este link], donde puedes probarla directamente en tu navegador sin necesidad de instalación.
